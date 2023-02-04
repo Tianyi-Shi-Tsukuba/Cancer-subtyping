@@ -1,4 +1,4 @@
-# Cancer-subtyping
+# Cancer-subtyping  ver1.0.0
 Code for paper "Interactive gene identification for cancer subtyping based on multi-omics clustering"  
 
 1.About clustering  
