@@ -1,12 +1,12 @@
 # Cancer-subtyping
 Code for paper "Interactive gene identification for cancer subtyping based on multi-omics clustering"  
 
-1. About clustering  
+1.About clustering  
 The overall clustering code is in cluster_test.R.  
 The similarity matrix code is in Similarity Matrix.R  
 You can change your dataset, parameters and similarity matrix in these two files.  
 
- 2.About downstream analysis  
+2.About downstream analysis  
 The Go analysis code is in Go_analysis.R.  
 The WGCNA analysis code is in WGCNA_test.R.  
 
